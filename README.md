@@ -87,6 +87,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - [ ] Improve graphical interface
 - [ ] Add sound effects
 
-## 📧 Contact
+## 📧 Author
 
-Project Link: https://github.com/Mauricio650/snakepokemon---mini-proyecto-en-consola
+Mauricio ibañez Bermudez
